@@ -22,6 +22,3 @@ Currently doing the [Deep Learning Specialisation](https://www.coursera.org/spec
 * Twitter: [@junaidrahim31](https://twitter.com/junaidrahim31)
 * My Site: https://junaidrahim.github.io
 * My Blog: https://medium.com/@junaidrahim
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
