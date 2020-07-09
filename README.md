@@ -28,5 +28,5 @@ And yeah, I am trying to transition to Vim, because why not.
 * My Site: https://junaidrahim.github.io/
 * My Blog: https://medium.com/@junaidrahim
 
-<br>
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
