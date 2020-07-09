@@ -4,7 +4,7 @@ As of now, I am a CSE sophmore at KIIT University.
 
 I started programming in highschool and here I am today, trying to make a career out of my hobby. I love the world of backend and systems development. I know my fair share of languages, JS and Python are the one's I use the most, trying to do more of C++. 
 
-I have friends who nag me to run arch linux but I am pretty rad with my custom Ubuntu setup 😉.
+I have friends who nag me to run arch linux but I am pretty rad with my custom Ubuntu setup 😅.
 
 
 ### What I am up to right now 👨‍💻 
