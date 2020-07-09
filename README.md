@@ -2,7 +2,9 @@
 
 As of now, I am a CSE sophmore at KIIT University.
 
-I started programming in highschool and here I am today, trying to make a career out of my hobby. I love the world of backend and systems development, so I am trying to do more of that. I know my fair share of languages, JS and Python are the one's I use the most, trying to do more of C++. I have friends who nag me to run arch linux but I am pretty productive with my custom Ubuntu setup .
+I started programming in highschool and here I am today, trying to make a career out of my hobby. I love the world of backend and systems development. I know my fair share of languages, JS and Python are the one's I use the most, trying to do more of C++. 
+
+I have friends who nag me to run arch linux but I am pretty rad with my custom Ubuntu setup 😉.
 
 
 ### What I am up to right now 👨‍💻 
@@ -11,6 +13,7 @@ I started programming in highschool and here I am today, trying to make a career
 
 * I am working as a web developer for [Desire Foundation](https://github.com/desirefoundation) currently working on their blog infrastructure. It's mostly TypeScript, GatsbyJS, Express and SQL.
 
+* Also working with [@rohankmr414](https://github.com/rohankmr414) and [@coolfool](https://github.com/coolfool) on a Discord bot to trigger out dedicated CS:GO Servers
 
 ### I am currently learning 😁
 
@@ -24,3 +27,6 @@ And yeah, I am trying to transition to Vim, because why not.
 * Twitter: [@junaidrahim31](https://twitter.com/junaidrahim31)
 * My Site: https://junaidrahim.github.io/
 * My Blog: https://medium.com/@junaidrahim
+
+<br>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
