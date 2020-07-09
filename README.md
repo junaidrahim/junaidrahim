@@ -2,6 +2,8 @@
 
 As of now, I am a CSE sophmore at KIIT University.
 
+I started programming in highschool and here I am today, trying to make a career out of my hobby. I love the world of backend and systems development, so I am trying to do more of that. I know my fair share of languages, JS and Python are the one's I use the most, trying to do more of C++. I have friends who nag me to run arch linux but I am pretty productive with my custom Ubuntu setup .
+
 
 ### What I am up to right now 👨‍💻 
 
@@ -12,8 +14,11 @@ As of now, I am a CSE sophmore at KIIT University.
 
 ### I am currently learning 😁
 
-I am trying to get better at the whole domain of deep learning. Math and computers have always fascinated my, I have some experience with ML and I am just trying to learn more. 
+I am trying to get better at the whole domain of deep learning. Math and computers have always fascinated me, I have some experience with ML and I am just trying to learn more. 
+
 Currently doing the [Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning) course by Andrew Ng and alongside that I am reading [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow.
+
+And yeah, I am trying to transition to Vim, because why not.
 
 ### ☕ Get in touch 
 * Twitter: [@junaidrahim31](https://twitter.com/junaidrahim31)
