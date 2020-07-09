@@ -12,7 +12,7 @@ I started programming in high school, now I am trying to make a career out of my
 
 * Also working with [@rohankmr414](https://github.com/rohankmr414) and [@coolfool](https://github.com/coolfool) on a discord bot to trigger our dedicated CS:GO Servers
 
-### I am currently learning 😁
+### What I am currently learning 😁
 
 I am trying to get better at the whole domain of deep learning. Math and computers have always fascinated me, I have some experience with ML and I am just trying to learn more. 
 
