@@ -16,7 +16,7 @@ I started programming in high school, now I am trying to make a career out of my
 
 I am trying to get better at the whole domain of deep learning. Math and computers have always fascinated me, I have some experience with ML and I am just trying to learn more. 
 
-Currently doing the [Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning) course by Andrew Ng and alongside that I am reading [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow. I am also learning Vim, because why not.
+Currently doing the [Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning) course by Andrew Ng and alongside that I am reading [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow. I am also trying to get better at Vim, because why not.
 
 ### ☕ Get in touch 
 * Twitter: [@junaidrahim31](https://twitter.com/junaidrahim31)
