@@ -10,8 +10,6 @@ I started programming in high school, now I am trying to make a career out of my
 
 * I am working as a web developer for [Desire Foundation](https://github.com/desirefoundation), currently working on their blog infrastructure. It's mostly TypeScript, GatsbyJS, Express and SQL.
 
-* Also working with [@rohankmr414](https://github.com/rohankmr414) and [@coolfool](https://github.com/coolfool) on a discord bot to trigger our dedicated CS:GO Servers
-
 ### What I am currently learning 😁
 
 I am trying to get better at the whole domain of deep learning. Math and computers have always fascinated me, I have some experience with ML and I am just trying to learn more. 
