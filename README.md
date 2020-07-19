@@ -22,5 +22,5 @@ Currently doing the [Deep Learning Specialisation](https://www.coursera.org/spec
 * My Blog: https://medium.com/@junaidrahim
 
 <div align="center">
-![Junaid's github stats](https://github-readme-stats.vercel.app/api?username=junaidrahim&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=junaidrahim&show_icons=true&theme=tokyonight" />
 </div>
