@@ -21,4 +21,4 @@ Currently doing the [Deep Learning Specialisation](https://www.coursera.org/spec
 * My Site: https://junaidrahim.github.io
 * My Blog: https://medium.com/@junaidrahim
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
