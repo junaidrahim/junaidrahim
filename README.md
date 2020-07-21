@@ -25,7 +25,3 @@ Currently doing the [Deep Learning Specialisation](https://www.coursera.org/spec
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=junaidrahim&show_icons=true&theme=tokyonight" />
 </div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/redux/redux-original.svg" />
-</div>
