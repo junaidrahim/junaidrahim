@@ -4,11 +4,15 @@ I am a CSE sophomore at [KIIT University](https://kiit.ac.in/)
 
 I started programming in high school, now I am trying to make a career out of my hobby. I love the world of backend and systems development. I know my fair share of languages, JS and Python are the one's I use the most, trying to do more of C++. Big time Linux fanboy 😅.
 
-<p align="left">
+<p align="center">
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
 </p>
 
 
