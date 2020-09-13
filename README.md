@@ -20,8 +20,6 @@ I started programming in high school, now I am trying to make a career out of my
 
 * I am currently working on [Project Halide](https://github.com/DSC-KIIT/project-halide), it is an experimental operating system written from scratch. Loads of C++ and x86 assembly
 
-* I am working as a web developer for [Desire Foundation](https://github.com/desirefoundation), currently working on their blog infrastructure. It's mostly TypeScript, GatsbyJS, Express and SQL.
-
 ### What I am currently learning 😁
 
 I am trying to get better at the whole domain of deep learning. Math and computers have always fascinated me, I have some experience with ML and I am just trying to learn more. 
