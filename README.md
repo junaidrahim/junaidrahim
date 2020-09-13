@@ -18,7 +18,7 @@ I started programming in high school, now I am trying to make a career out of my
 
 ### What I am up to right now 👨‍💻 
 
-* I am writing and recording some fun youtube tutorials on the C programming language [@DSCKIIT](https://github.com/DSC-KIIT). You can find them [here](https://github.com/DSC-KIIT/C-tutorials)
+* I am currently working on [Project Halide](https://github.com/DSC-KIIT/project-halide), it is an experimental operating system written from scratch. Loads of C++ and x86 assembly
 
 * I am working as a web developer for [Desire Foundation](https://github.com/desirefoundation), currently working on their blog infrastructure. It's mostly TypeScript, GatsbyJS, Express and SQL.
 
