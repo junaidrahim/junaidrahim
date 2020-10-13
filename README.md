@@ -28,7 +28,7 @@ Currently doing the [Deep Learning Specialisation](https://www.coursera.org/spec
 ### ☕ Get in touch 
 * Twitter: [@junaidrahim31](https://twitter.com/junaidrahim31)
 * My Site: https://junaidrahim.github.io
-* My Blog: https://medium.com/@junaidrahim
+* My Blog: https://junaidrahim.hashnode.dev/
 
 <br>
 
