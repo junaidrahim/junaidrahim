@@ -1,6 +1,6 @@
 # Hi, I am Junaid 👋
 
-I am a CSE junior at [KIIT University](https://kiit.ac.in/)
+I am a CSE junior at [KIIT University](https://kiit.ac.in/) and working as a Backend Intern at [Atlan](https://atlan.com)
 
 I started programming in high school, now I am trying to make a career out of my hobby. I love the world of backend and systems development. I know my fair share of languages, JS and Python are the one's I use the most, trying to do more of C++. Big time Linux fanboy 😅.
 
