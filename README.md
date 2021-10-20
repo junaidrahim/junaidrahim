@@ -25,7 +25,7 @@ Currently working as a Backend Engineering Intern at [Atlan](https://atlan.com/)
 Learning a wide range of backend and data systems at work. Trying to go deeper into distributed data systems and scalable ETL jobs, doing some Rust on the weekends. 
 
 ### ☕ Get in touch 
-* Twitter: [@junaidrahim31](https://twitter.com/junaidrahxm)
+* Twitter: [@junaidrahxm](https://twitter.com/junaidrahxm)
 * My Site: https://junaidrahim.in
 
 <br>
