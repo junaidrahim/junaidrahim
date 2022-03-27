@@ -11,7 +11,8 @@ My day job at Atlan involves working a lot with argo workflows, containers, pyth
 
 ### ☕ Get in touch 
 * Twitter: [@junaidrahxm](https://twitter.com/junaidrahxm)
-* My Site: https://junaidrahim.in
+* Site: https://junaidrahim.in
+* [Resume](https://github.com/junaidrahim/resume/raw/master/Sept%202021/junaidrahim.pdf) and [Blog](https://blog.junaidrahim.in/)
 
 <br>
 
