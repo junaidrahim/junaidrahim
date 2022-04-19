@@ -4,9 +4,9 @@
 
 I am currently a CSE junior at [KIIT University](https://kiit.ac.in/) and working in the Platform Team at [Atlan](https://atlan.com)
 
-[![Linkedin](https://img.icons8.com/ios-glyphs/25/000000/linkedin.png)](https://www.linkedin.com/in/junaidrahim)
 [![Twitter](https://img.icons8.com/ios-glyphs/25/000000/twitter--v1.png)](https://twitter.com/junaidrahxm)
 [![Blog](https://img.icons8.com/ios-glyphs/25/000000/overview-pages-1.png)](https://blog.junaidrahim.in)
+[![Linkedin](https://img.icons8.com/ios-glyphs/25/000000/linkedin.png)](https://www.linkedin.com/in/junaidrahim)
 
 <br>
 
