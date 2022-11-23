@@ -2,7 +2,7 @@
 
 ### Hi, I am Junaid
 
-I am currently a CSE junior at [KIIT University](https://kiit.ac.in/) and working in the Platform Team at [Atlan](https://atlan.com)
+I am currently a CSE senior at [KIIT University](https://kiit.ac.in/) and working in the Platform Team at [Atlan](https://atlan.com)
 
 [![Twitter](https://img.icons8.com/ios-glyphs/25/000000/twitter--v1.png)](https://twitter.com/junaidrahxm)
 [![Blog](https://img.icons8.com/ios-glyphs/25/000000/overview-pages-1.png)](https://blog.junaidrahim.in)
