@@ -10,6 +10,6 @@ I am currently a part of the Platform team at [Atlan](https://atlan.com/). You c
 
 <br>
 
-I'm a full stack engineer but lately I've been working mostly in backend and systems development. My day job at Atlan involves working a lot with argo workflows, containers, python, js and golang tooling and services.
+I'm a full stack engineer but lately I've been working mostly in backend and systems development. My work at Atlan involves a lot of data pipelines, argo workflows, parsers and some AST things, python, js, golang and kotlin.
 
 **~** [_junaidrahim.dev_](https://junaidrahim.dev)
