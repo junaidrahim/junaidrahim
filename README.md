@@ -2,7 +2,7 @@
 
 ### Hi, I am Junaid
 
-I am currently a part of the Platform team at [Atlan](https://atlan.com/). You can read more about me [here](https://junaidrahim.dev/about/).
+I am currently a part of the Platform team at [Atlan](https://atlan.com/). You can read more about me [here](https://blog.junaidrahim.dev/about/).
 
 [![Twitter](https://img.icons8.com/ios-glyphs/25/000000/twitter--v1.png)](https://twitter.com/junaidrahxm)
 [![Blog](https://img.icons8.com/ios-glyphs/25/000000/overview-pages-1.png)](https://junaidrahim.dev)
